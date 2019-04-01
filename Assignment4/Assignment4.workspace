@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Assignment4" Database="" Version="10.0.0">
+  <Project Name="01" Path="1/1.project" Active="No"/>
+  <Project Name="02" Path="2/2.project" Active="No"/>
+  <Project Name="03" Path="3/3.project" Active="No"/>
+  <Project Name="04" Path="4/4.project" Active="No"/>
+  <Project Name="05" Path="5/5.project" Active="Yes"/>
+  <Project Name="06" Path="6/6.project" Active="No"/>
+  <Project Name="07" Path="7/7.project" Active="No"/>
+  <Project Name="08" Path="8/8.project" Active="No"/>
+  <Project Name="09" Path="9/9.project" Active="No"/>
+  <Project Name="10" Path="10/10.project" Active="No"/>
+  <Project Name="11" Path="11/11.project" Active="No"/>
+  <Project Name="12" Path="12/12.project" Active="No"/>
+  <Project Name="13" Path="13/13.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="01" ConfigName="Debug"/>
+      <Project Name="02" ConfigName="Debug"/>
+      <Project Name="03" ConfigName="Debug"/>
+      <Project Name="04" ConfigName="Debug"/>
+      <Project Name="05" ConfigName="Debug"/>
+      <Project Name="06" ConfigName="Debug"/>
+      <Project Name="07" ConfigName="Debug"/>
+      <Project Name="08" ConfigName="Debug"/>
+      <Project Name="09" ConfigName="Debug"/>
+      <Project Name="10" ConfigName="Debug"/>
+      <Project Name="11" ConfigName="Debug"/>
+      <Project Name="12" ConfigName="Debug"/>
+      <Project Name="13" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="01" ConfigName="Release"/>
+      <Project Name="02" ConfigName="Release"/>
+      <Project Name="03" ConfigName="Release"/>
+      <Project Name="04" ConfigName="Release"/>
+      <Project Name="05" ConfigName="Release"/>
+      <Project Name="06" ConfigName="Release"/>
+      <Project Name="07" ConfigName="Release"/>
+      <Project Name="08" ConfigName="Release"/>
+      <Project Name="09" ConfigName="Release"/>
+      <Project Name="10" ConfigName="Release"/>
+      <Project Name="11" ConfigName="Release"/>
+      <Project Name="12" ConfigName="Release"/>
+      <Project Name="13" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

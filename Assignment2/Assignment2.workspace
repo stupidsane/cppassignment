@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Assignment2" Database="" Version="10.0.0">
+  <Project Name="1add2cmplx" Path="1add2cmplx/1add2cmplx.project" Active="Yes"/>
+  <Project Name="2bank" Path="2bank/2bank.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1add2cmplx" ConfigName="Debug"/>
+      <Project Name="2bank" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1add2cmplx" ConfigName="Release"/>
+      <Project Name="2bank" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

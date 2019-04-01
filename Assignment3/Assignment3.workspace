@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Assignment3" Database="" Version="10.0.0">
+  <Project Name="3overloadsumcomplex" Path="1overload/1overload.project" Active="No"/>
+  <Project Name="5concat" Path="5concat/5concat.project" Active="No"/>
+  <Project Name="1evenodd" Path="1evenodd/1evenodd.project" Active="No"/>
+  <Project Name="2prime" Path="2prime/2prime.project" Active="No"/>
+  <Project Name="4distance" Path="4distance/4distance.project" Active="No"/>
+  <Project Name="6feetTOinches" Path="6feetTOinches/6feetTOinches.project" Active="Yes"/>
+  <Project Name="7time" Path="7time/7time.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="3overloadsumcomplex" ConfigName="Debug"/>
+      <Project Name="5concat" ConfigName="Debug"/>
+      <Project Name="1evenodd" ConfigName="Debug"/>
+      <Project Name="2prime" ConfigName="Debug"/>
+      <Project Name="4distance" ConfigName="Debug"/>
+      <Project Name="6feetTOinches" ConfigName="Debug"/>
+      <Project Name="7time" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="3overloadsumcomplex" ConfigName="Release"/>
+      <Project Name="5concat" ConfigName="Release"/>
+      <Project Name="1evenodd" ConfigName="Release"/>
+      <Project Name="2prime" ConfigName="Release"/>
+      <Project Name="4distance" ConfigName="Release"/>
+      <Project Name="6feetTOinches" ConfigName="Release"/>
+      <Project Name="7time" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="D:\C++\ASSIGNMENTS\ZEESHAN SIR C++\Assidnment1\CPP.workspace">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="D:\C++\ASSIGNMENTS\ZEESHAN SIR C++\Assidnment1\CPP.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="D:\C++\ASSIGNMENTS\ZEESHAN SIR C++\Assidnment1\4bank\main.cpp" Name="FileName"/>
+      <int Value="140" Name="FirstVisibleLine"/>
+      <int Value="148" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\C++\ASSIGNMENTS\ZEESHAN SIR C++\Assidnment1\regex\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="6" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
